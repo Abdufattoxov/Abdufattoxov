@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hi, I'm Shakhzod Abdufattokhov 👋
+If you are looking for Java Developer who can create a website, refactor legacy code or improve the current performance of your app, then you are at the right place!
 <!--
 **Abdufattoxov/Abdufattoxov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+Hi, I'm YaqubAliy Majamolov 
+If you are looking for .NET web developer who can create a new website, refactor legacy code or improve the current performance of your app, then you are at the right place!
