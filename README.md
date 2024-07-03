@@ -15,6 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-Hi, I'm YaqubAliy Majamolov 
-If you are looking for .NET web developer who can create a new website, refactor legacy code or improve the current performance of your app, then you are at the right place!
